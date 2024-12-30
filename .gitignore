@@ -1,0 +1,24 @@
+# build artifacts
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+*.dylib
+
+#build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+#IDE files
+*.vcxproj
+*.sln
+.vscode/
+
+#SDL2 binaries and libraries (optional)
+bin/
+lib/
+
